@@ -1,0 +1,13 @@
+{
+  "name": "bolsobot",
+  "version": "1.0.0",
+  "description": "Bot do Bolsonaro e acabou porra, taokey?",
+  "main": "bot.js",
+  "repository": "git@github.com:renesansz/discord-greeter-bot.git",
+  "author": "Fábio Dario",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.4"
+  }
+}
